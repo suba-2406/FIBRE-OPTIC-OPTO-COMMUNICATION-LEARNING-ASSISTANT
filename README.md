@@ -1,20 +1,92 @@
-<<<<<<< HEAD
-# React + Vite
+# FIBRE OPTIC OPTO COMMUNICATION LEARNING ASSISTANT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive web-based learning platform designed to help students understand the fundamentals of Fibre Optic and Optical Communication systems through quizzes, progress tracking, and engaging educational content.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* 📚 Interactive learning modules
+* 🧠 Quiz-based assessment system
+* 📈 Student progress tracking
+* 💻 Modern responsive UI using React & Vite
+* 🔐 Backend integration for data handling
+* ⚡ Fast and optimized performance
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Frontend
 
-## Expanding the ESLint configuration
+* React.js
+* Vite
+* JavaScript
+* CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# FIBRE-OPTIC-OPTO-COMMUNICATION-LEARNING-ASSISTANT
->>>>>>> 0c61504b6ae2ea817db7e51e34fb846450eacd0a
+### Backend
+
+* Node.js
+* Express.js
+
+## 📂 Project Structure
+
+```bash
+FOO PROJ/
+│
+├── backend/
+│   ├── server.js
+│   ├── package.json
+│
+├── public/
+├── src/
+├── dist/
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+## ⚙️ Installation
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/suba-2406/FIBRE-OPTIC-OPTO-COMMUNICATION-LEARNING-ASSISTANT.git
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Run Frontend
+
+```bash
+npm run dev
+```
+
+### Run Backend
+
+```bash
+cd backend
+npm install
+node server.js
+```
+
+## 🎯 Purpose of the Project
+
+This project was developed to simplify the learning process of Fibre Optic and Optical Communication concepts through an interactive and student-friendly platform.
+
+## 📌 Future Enhancements
+
+* AI-powered doubt assistant
+* Video learning integration
+* Leaderboard system
+* User authentication
+* Cloud database support
+
+## 👩‍💻 Author
+
+**SUBASREE**
+Final Year CSE-BDA Student @ SRMIST
+
+## 📜 License
+
+This project is developed for educational purposes.
